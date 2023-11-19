@@ -23,7 +23,7 @@ export default function Home() {
       <Box
         id="formArea"
         sx={{
-          minHeight: { xs: "87vh", md: "630px" },
+          minHeight: { xs: "87dvh", md: "630px" },
           display: "flex",
           flexDirection: "column",
           rowGap: "2.5rem",
